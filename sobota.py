@@ -9,3 +9,5 @@ def wypisz_imie(my_name):
 imie = wypisz_imie(input("Wpisz imię: "))
 
 print(imie)
+
+
