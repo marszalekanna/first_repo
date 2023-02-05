@@ -10,4 +10,4 @@ imie = wypisz_imie(input("Wpisz imię: "))
 
 print(imie)
 
-
+# dopiszmy cokolwiek
